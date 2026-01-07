@@ -13,7 +13,7 @@ The objective of this project is to build a machine learning model that predicts
 
 ## Dataset Description
 The dataset contains patient demographic information, medical history, hospital stay details, and readmission status.
-Dataset Source: UCI Machine Learning Repository.
+The dataset used in this project is a publicly available, de-identified hospital readmission dataset commonly used for academic and machine learning practice.
 
 ## Methodology / Approach
 1. Data collection from a public dataset
@@ -38,4 +38,4 @@ Dataset Source: UCI Machine Learning Repository.
 The model successfully predicts hospital readmission with acceptable accuracy.
 
 ## Dataset
-Dataset link will be provided in the repository.
+Due to data privacy considerations, the dataset is not directly included in the repository.
