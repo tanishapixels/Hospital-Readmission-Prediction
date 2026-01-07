@@ -39,3 +39,6 @@ The model successfully predicts hospital readmission with acceptable accuracy.
 
 ## Dataset
 Due to data privacy considerations, the dataset is not directly included in the repository.
+
+## Trained Model
+The machine learning model is trained and evaluated within the Jupyter Notebook and is not saved as a separate file.
